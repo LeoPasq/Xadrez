@@ -27,7 +27,7 @@ if (pecaXadrez == 'rei') {
 }                 else {
                      somaPecas -= 50;
 }
-alert(`${nome}, a soma dos pontos é: ${somaPecas}`);
+alert(`${nome}, a soma total dos pontos é: ${somaPecas}`);
 }
-alert(`Parabéns ${nome}!!`);
+alert(`Parabéns ${nome}, voce conseguiu!!`);
 alert(`Voce somou mais que ${numAleatorio} e venceu o jogo!`);
